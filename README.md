@@ -5,7 +5,7 @@ Welcome! Follow the steps below to open the database file in DataGrip.
 
 ---
 
-## 📁 Step 1: Download the Files
+## Step 1: Download the Files
 
 Make sure you have:
 
@@ -13,21 +13,21 @@ Make sure you have:
 
 Save them somewhere easy to find (Desktop or Downloads is fine).
 
----
 
-## 🛠 Step 2: Open DataGrip
+
+## Step 2: Open DataGrip
 
 Launch **DataGrip**.
 
----
 
-## ➕ Step 3: Add the Database
+
+## Step 3: Add the Database
 
 1. Click **File** on the top bar and click **Open**.
 
----
 
-## 📦 Step 4: Download Driver (If Prompted)
+
+## Step 4: Download Driver (If Prompted)
 
 If DataGrip says:
 
@@ -39,9 +39,9 @@ Click:
 
 This only happens the first time you connect to SQLite.
 
----
 
-## ▶ Step 5: Run Queries
+
+## Step 5: Run Queries
 
 1. Right-click the database
 2. Select **New → Query Console**
@@ -51,9 +51,9 @@ This only happens the first time you connect to SQLite.
 - **Mac:** `Cmd + Enter`
 - **Windows:** `Ctrl + Enter`
 
----
 
-## 💾 Editing Data (Important)
+
+## Editing Data (Important)
 
 If you manually edit rows:
 
@@ -63,9 +63,9 @@ If you manually edit rows:
 
 If you do **not** commit, your changes will not be saved.
 
----
 
-## 🔄 Resetting the Database
+
+## Resetting the Database
 
 If something breaks:
 
@@ -76,7 +76,7 @@ If something breaks:
 
 ---
 
-## 🎯 You're Ready
+## You're Ready
 
 You now have access to:
 
